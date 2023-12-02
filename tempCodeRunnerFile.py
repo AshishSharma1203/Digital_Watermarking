@@ -1,0 +1,2 @@
+mg,watermarkedImg)
+    print(psnrval)
